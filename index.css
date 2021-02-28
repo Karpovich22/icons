@@ -1,0 +1,18 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #212020;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 100px;
+    border: solid 2px #E04141;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #E04141;
+}
+.youtube a:hover {background: #E04141; color: #212020;}
+.instagram a:hover {background: #E04141; color: #212020;}
+.facebook a:hover {background: #E04141; color: #212020;}
